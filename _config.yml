@@ -29,6 +29,8 @@ url: "https://beyond-sign.al" # the base hostname & protocol for your site, e.g.
 # twitter_username: benjaminbauer
 github_username:  benjaminbauer
 
+permalink: none
+
 # Build settings
 theme: minima
 plugins:
