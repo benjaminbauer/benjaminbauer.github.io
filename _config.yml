@@ -28,6 +28,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://beyond-sign.al" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: benjaminbauer
 github_username:  benjaminbauer
+linkedin_username: benjaminfbauer
 
 permalink: none
 
